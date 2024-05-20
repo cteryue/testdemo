@@ -1,0 +1,33 @@
+path: "https://www.baidu.com/"
+id: "#kw"
+
+hero:
+  name: 螳螂
+  word: 孤立无援
+  HP: 500
+
+hero_name:
+  - 螳螂
+  - 小法
+  - 火男
+
+heros:
+  - name: 螳螂
+    word: 狩猎
+    HP: 400
+  - name: 安妮
+    word: 火焰
+    HP: 412
+
+hero_name_list:
+  - - 安妮
+    - 螳螂
+
+params:
+  shouji: 15618919441
+  appkey: 0c818521d38759e1
+
+
+mobile_params:
+  - [ 15618919441,0c818521d38759e1 ]
+  - [ 15618919412,0c818521d38759e1 ]
